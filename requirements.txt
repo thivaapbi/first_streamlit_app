@@ -1,0 +1,2 @@
+#requirements.txt
+showflake-connetor-python
